@@ -1,0 +1,28 @@
+{
+  "name": "epizo",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Epizo \u2014 authentication, editorial back office and connected video catalogue",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test tests/*.test.js",
+    "check": "npm run test && npm run build"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "@supabase/supabase-js": "2.118.0",
+    "tus-js-client": "4.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.2.1",
+    "vite": "8.3.5",
+    "@electric-sql/pglite": "0.5.14"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-04",
+  "application": "Epizo 2.0.0",
+  "target": "http://127.0.0.1:4173",
+  "scope": "Production frontend build served locally; demo mode, no external backend configured.",
+  "desktop": {
+    "viewport": "1440x900",
+    "routes": [
+      {
+        "route": "accueil",
+        "heading": "Là où le fleuve\nnous mène.",
+        "viewportWidth": 1440,
+        "clientWidth": 1425,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "route": "films",
+        "heading": "Bibliothèque",
+        "viewportWidth": 1440,
+        "clientWidth": 1425,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "route": "histoires",
+        "heading": "Histoires",
+        "viewportWidth": 1440,
+        "clientWidth": 1425,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "route": "ma-liste",
+        "heading": "Ma liste",
+        "viewportWidth": 1440,
+        "clientWidth": 1425,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "route": "abonnements",
+        "heading": "Le cinéma d’ici.\nÀ votre rythme.",
+        "viewportWidth": 1440,
+        "clientWidth": 1425,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "route": "connexion",
+        "heading": "Les histoires nous rapprochent.",
+        "viewportWidth": 1440,
+        "clientWidth": 1425,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "route": "compte",
+        "heading": "Votre espace vous attend.",
+        "viewportWidth": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      },
+      {
+        "route": "admin",
+        "heading": "Votre plateforme, en vue d’ensemble.",
+        "viewportWidth": 1440,
+        "clientWidth": 1425,
+        "scrollWidth": 1425,
+        "overflow": false,
+        "brokenImages": []
+      }
+    ]
+  },
+  "mobile": {
+    "viewport": "390x844",
+    "emulated": true,
+    "routes": [
+      {
+        "route": "accueil",
+        "heading": "Là où le fleuve\nnous mène.",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 3
+      },
+      {
+        "route": "films",
+        "heading": "Bibliothèque",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 0
+      },
+      {
+        "route": "histoires",
+        "heading": "Histoires",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 0
+      },
+      {
+        "route": "ma-liste",
+        "heading": "Ma liste",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 0
+      },
+      {
+        "route": "abonnements",
+        "heading": "Le cinéma d’ici.\nÀ votre rythme.",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 0
+      },
+      {
+        "route": "connexion",
+        "heading": "Les histoires nous rapprochent.",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 0
+      },
+      {
+        "route": "compte",
+        "heading": "Votre espace vous attend.",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 0
+      },
+      {
+        "route": "admin",
+        "heading": "Votre plateforme, en vue d’ensemble.",
+        "viewportWidth": 390,
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "overflow": false,
+        "brokenImages": [],
+        "pendingImages": 0
+      }
+    ]
+  },
+  "limitations": [
+    "Route checks are not real authentication, payment or video delivery checks.",
+    "Mobile home had three pending offscreen images at measurement time; pending is not a failed load.",
+    "Browser viewport emulation does not validate physical devices."
+  ]
+}

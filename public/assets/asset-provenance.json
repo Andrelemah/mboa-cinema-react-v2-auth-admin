@@ -1,0 +1,85 @@
+[
+  {
+    "name": "yaounde",
+    "path": "yaounde.webp",
+    "alias": "film-1.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "bytes": 165418,
+    "source": "/workspace/scratch/0e71588046d8/generated_images/exec-c5e81960-4666-4a40-b063-a8b99c5d5598.png",
+    "provenance": "Original fictional artwork generated with built-in image_gen; no real film poster, no celebrity likeness; WebP format conversion only."
+  },
+  {
+    "name": "taxi",
+    "path": "taxi.webp",
+    "alias": "film-2.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "bytes": 223618,
+    "source": "/workspace/scratch/0e71588046d8/generated_images/exec-fb95448e-c7bd-4181-bbc2-d30222cdc63a.png",
+    "provenance": "Original fictional artwork generated with built-in image_gen; no real film poster, no celebrity likeness; WebP format conversion only."
+  },
+  {
+    "name": "racines",
+    "path": "racines.webp",
+    "alias": "film-3.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "bytes": 317092,
+    "source": "/workspace/scratch/0e71588046d8/generated_images/exec-0c00c97d-7fde-459b-b2e9-6bb58fa7f8b5.png",
+    "provenance": "Original fictional artwork generated with built-in image_gen; no real film poster, no celebrity likeness; WebP format conversion only."
+  },
+  {
+    "name": "foumban",
+    "path": "foumban.webp",
+    "alias": "film-4.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "bytes": 213966,
+    "source": "/workspace/scratch/0e71588046d8/generated_images/exec-7114c60c-3b95-4ccd-b1da-03ed47231316.png",
+    "provenance": "Original fictional artwork generated with built-in image_gen; no real film poster, no celebrity likeness; WebP format conversion only."
+  },
+  {
+    "name": "rives",
+    "path": "rives.webp",
+    "alias": "film-5.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "bytes": 178748,
+    "source": "/workspace/scratch/0e71588046d8/generated_images/exec-6ed827c2-b5b4-42c2-a069-7059a43eb30e.png",
+    "provenance": "Original fictional artwork generated with built-in image_gen; no real film poster, no celebrity likeness; WebP format conversion only."
+  },
+  {
+    "name": "retour",
+    "path": "retour.webp",
+    "alias": "film-6.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "bytes": 312274,
+    "source": "/workspace/scratch/0e71588046d8/generated_images/exec-468c0407-95f7-4f5e-b508-401fadad256d.png",
+    "provenance": "Original fictional artwork generated with built-in image_gen; no real film poster, no celebrity likeness; WebP format conversion only."
+  },
+  {
+    "name": "collines",
+    "path": "film-7.webp",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "bytes": 226186,
+    "source": "/workspace/scratch/0e71588046d8/generated_images/exec-33c953bc-d2ba-4af3-9c4f-62d830b1b4c4.png",
+    "provenance": "Original fictional artwork generated with built-in image_gen for the MBOA UI refinement; no real film poster, no celebrity likeness, no claim to depict an exact location or community; WebP format conversion only. Replaces duplicated river artwork."
+  }
+]

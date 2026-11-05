@@ -1,0 +1,33 @@
+project_id = "mboa-cinema"
+
+[auth]
+site_url = "http://127.0.0.1:5173"
+additional_redirect_urls = ["http://127.0.0.1:5173/#connexion", "http://127.0.0.1:5173/?auth_action=recovery#connexion", "http://localhost:5173/#connexion", "http://localhost:5173/?auth_action=recovery#connexion"]
+enable_signup = true
+minimum_password_length = 12
+
+[auth.email]
+enable_signup = true
+enable_confirmations = true
+
+[auth.mfa.totp]
+enroll_enabled = true
+verify_enabled = true
+
+[functions.admin-api]
+verify_jwt = true
+
+[functions.activity-heartbeat]
+verify_jwt = true
+
+[functions.playback-token]
+verify_jwt = true
+
+[functions.stream-webhook]
+verify_jwt = false
+
+[functions.paystack-checkout]
+verify_jwt = false
+
+[functions.paystack-webhook]
+verify_jwt = false
