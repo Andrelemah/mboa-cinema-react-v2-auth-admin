@@ -1,4 +1,4 @@
-import { Configured, supabase } from '../lib/supabase.js';
+import { backendConfigured, supabase } from '../lib/supabase.js';
 
 function assertRecord(value) {
   if (!value || typeof value !== 'object' || Array.isArray(value)) throw new Error('Invalid payment service response.');
